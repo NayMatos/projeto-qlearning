@@ -1,4 +1,4 @@
-# Projeto: Reinforcement Learning em Haskell[cite: 2]
+# Projeto: Reinforcement Learning em Haskell
 
 **Tema Escolhido:** 1. Q-Learning (Clássico)
 
